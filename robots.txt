@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://edntesp.github.io/sitemap.html.gz
+Sitemap: https://edntesp.github.io/app/sitemap.html.gz
+Sitemap: https://edntesp.github.io/assets/sitemap.html.gz
+Sitemap: https://edntesp.github.io/css/sitemap.html.gz
+Sitemap: https://edntesp.github.io/data/sitemap.html.gz
+Sitemap: https://edntesp.github.io/includes/sitemap.html.gz
+Sitemap: https://edntesp.github.io/item/sitemap.html.gz
+Sitemap: https://edntesp.github.io/src/sitemap.html.gz
